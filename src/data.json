@@ -1,0 +1,1004 @@
+[
+ {
+  "year": 2022,
+  "make": "Toyota",
+  "model": "Camry",
+  "type": "Sedan",
+  "img": "img_url_1",
+  "description": "The Toyota Camry is a popular midsize sedan known for its reliability and fuel efficiency.",
+  "fuelConsumption": "28 mpg (city), 39 mpg (highway)",
+  "engineSize": "2.5L 4-cylinder",
+  "accessories": [
+   "Leather Seats",
+   "Navigation System",
+   "Sunroof"
+  ],
+  "functionalities": [
+   "Adaptive Cruise Control",
+   "Lane Keeping Assist"
+  ],
+  "rentalPrice": "$30 per day",
+  "rentalCompany": "A1 Car Rentals",
+  "address": "123 Main Street, Anytown, USA",
+  "rentalConditions": "Minimum age: 25, Valid driver's license required",
+  "mileage": 10000,
+  "id": "1"
+ },
+ {
+  "year": 2021,
+  "make": "Honda",
+  "model": "CR-V",
+  "type": "SUV",
+  "img": "img_url_2",
+  "description": "The Honda CR-V is a compact SUV with a spacious interior and great safety features.",
+  "fuelConsumption": "27 mpg (city), 33 mpg (highway)",
+  "engineSize": "1.5L 4-cylinder",
+  "accessories": [
+   "Apple CarPlay",
+   "Heated Seats",
+   "Blind Spot Monitoring"
+  ],
+  "functionalities": [
+   "Collision Mitigation Braking",
+   "Adaptive Headlights"
+  ],
+  "rentalPrice": "$35 per day",
+  "rentalCompany": "Rent-A-Car Now",
+  "address": "456 Elm Street, Othercity, USA",
+  "rentalConditions": "Minimum age: 21, Proof of insurance required",
+  "mileage": 8000,
+  "id": "2"
+ },
+ {
+  "year": 2023,
+  "make": "Ford",
+  "model": "F-150",
+  "type": "Truck",
+  "img": "img_url_3",
+  "description": "The Ford F-150 is a full-size pickup truck known for its towing capacity and ruggedness.",
+  "fuelConsumption": "20 mpg (city), 26 mpg (highway)",
+  "engineSize": "3.5L V6",
+  "accessories": [
+   "Towing Package",
+   "Bedliner",
+   "Remote Start"
+  ],
+  "functionalities": [
+   "4WD",
+   "Trailer Sway Control"
+  ],
+  "rentalPrice": "$50 per day",
+  "rentalCompany": "Truck Rentals Inc.",
+  "address": "789 Oak Avenue, Trucktown, USA",
+  "rentalConditions": "Minimum age: 25, Valid driver's license required",
+  "mileage": 12000,
+  "id": "3"
+ },
+ {
+  "year": 2020,
+  "make": "Nissan",
+  "model": "Altima",
+  "type": "Sedan",
+  "img": "img_url_4",
+  "description": "The Nissan Altima is a comfortable and fuel-efficient midsize sedan.",
+  "fuelConsumption": "28 mpg (city), 39 mpg (highway)",
+  "engineSize": "2.5L 4-cylinder",
+  "accessories": [
+   "Keyless Entry",
+   "Push Button Start",
+   "Dual-Zone Climate Control"
+  ],
+  "functionalities": [
+   "Blind Spot Warning",
+   "Rearview Camera"
+  ],
+  "rentalPrice": "$28 per day",
+  "rentalCompany": "Easy Rent Cars",
+  "address": "101 Pine Street, Somewhere, USA",
+  "rentalConditions": "Minimum age: 21, Credit card required",
+  "mileage": 15000,
+  "id": "4"
+ },
+ {
+  "year": 2022,
+  "make": "Chevrolet",
+  "model": "Equinox",
+  "type": "SUV",
+  "img": "img_url_5",
+  "description": "The Chevrolet Equinox is a compact SUV with a comfortable ride and good cargo space.",
+  "fuelConsumption": "26 mpg (city), 31 mpg (highway)",
+  "engineSize": "1.5L 4-cylinder",
+  "accessories": [
+   "Apple CarPlay",
+   "Android Auto",
+   "Rear Cross Traffic Alert"
+  ],
+  "functionalities": [
+   "Automatic Emergency Braking",
+   "Lane Departure Warning"
+  ],
+  "rentalPrice": "$33 per day",
+  "rentalCompany": "City Auto Rentals",
+  "address": "567 Oak Street, Anytown, USA",
+  "rentalConditions": "Minimum age: 21, Proof of insurance required",
+  "mileage": 9000,
+  "id": "5"
+ },
+ {
+  "year": 2023,
+  "make": "Jeep",
+  "model": "Wrangler",
+  "type": "SUV",
+  "img": "img_url_6",
+  "description": "The Jeep Wrangler is a rugged off-road SUV that's perfect for outdoor adventures.",
+  "fuelConsumption": "17 mpg (city), 25 mpg (highway)",
+  "engineSize": "3.6L V6",
+  "accessories": [
+   "Removable Top",
+   "4WD",
+   "Navigation System"
+  ],
+  "functionalities": [
+   "Hill Descent Control",
+   "Skid Plates"
+  ],
+  "rentalPrice": "$45 per day",
+  "rentalCompany": "Adventure Rentals",
+  "address": "999 Mountain Road, Outdoorsville, USA",
+  "rentalConditions": "Minimum age: 25, Off-road experience preferred",
+  "mileage": 5000,
+  "id": "6"
+ },
+ {
+  "year": 2021,
+  "make": "BMW",
+  "model": "X5",
+  "type": "SUV",
+  "img": "img_url_7",
+  "description": "The BMW X5 is a luxury SUV known for its premium features and powerful performance.",
+  "fuelConsumption": "21 mpg (city), 26 mpg (highway)",
+  "engineSize": "3.0L Inline-6",
+  "accessories": [
+   "Leather Seats",
+   "Panoramic Sunroof",
+   "Heated Steering Wheel"
+  ],
+  "functionalities": [
+   "Adaptive Cruise Control",
+   "Surround-View Camera"
+  ],
+  "rentalPrice": "$60 per day",
+  "rentalCompany": "Luxury Auto Rentals",
+  "address": "123 Luxury Lane, Highend City, USA",
+  "rentalConditions": "Minimum age: 25, Credit card and insurance required",
+  "mileage": 7000,
+  "id": "7"
+ },
+ {
+  "year": 2022,
+  "make": "Audi",
+  "model": "A4",
+  "type": "Sedan",
+  "img": "img_url_8",
+  "description": "The Audi A4 is a premium compact sedan with a refined interior and advanced technology.",
+  "fuelConsumption": "27 mpg (city), 35 mpg (highway)",
+  "engineSize": "2.0L Inline-4",
+  "accessories": [
+   "Virtual Cockpit",
+   "Bang & Olufsen Sound System",
+   "Quattro All-Wheel Drive"
+  ],
+  "functionalities": [
+   "Adaptive Cruise Control",
+   "Audi Pre Sense City"
+  ],
+  "rentalPrice": "$55 per day",
+  "rentalCompany": "Audi Excellence Rentals",
+  "address": "789 Luxury Avenue, Upscale Town, USA",
+  "rentalConditions": "Minimum age: 25, Premium fuel required",
+  "mileage": 6000,
+  "id": "8"
+ },
+ {
+  "year": 2023,
+  "make": "Tesla",
+  "model": "Model 3",
+  "type": "Electric",
+  "img": "img_url_9",
+  "description": "The Tesla Model 3 is an all-electric sedan known for its impressive range and cutting-edge technology.",
+  "fuelConsumption": "Electric (range of 220-358 miles)",
+  "engineSize": "Electric Motor",
+  "accessories": [
+   "Autopilot",
+   "Full Self-Driving Capability",
+   "Gigafactory Warranty"
+  ],
+  "functionalities": [
+   "Sentry Mode",
+   "Summon",
+   "Over-the-Air Updates"
+  ],
+  "rentalPrice": "$70 per day",
+  "rentalCompany": "Electric Car Rentals",
+  "address": "456 Charge Road, Electrictown, USA",
+  "rentalConditions": "Minimum age: 25, Electric vehicle charging station access required",
+  "mileage": 4000,
+  "id": "9"
+ },
+ {
+  "year": 2020,
+  "make": "Subaru",
+  "model": "Outback",
+  "type": "SUV",
+  "img": "img_url_10",
+  "description": "The Subaru Outback is a versatile crossover SUV with standard all-wheel drive and great safety features.",
+  "fuelConsumption": "26 mpg (city), 33 mpg (highway)",
+  "engineSize": "2.5L 4-cylinder",
+  "accessories": [
+   "All-Wheel Drive",
+   "EyeSight Driver Assist",
+   "Roof Rails"
+  ],
+  "functionalities": [
+   "Adaptive Cruise Control",
+   "Lane Departure Warning"
+  ],
+  "rentalPrice": "$40 per day",
+  "rentalCompany": "Subaru Adventure Rentals",
+  "address": "101 Mountain Trail, Trailside, USA",
+  "rentalConditions": "Minimum age: 21, Proof of insurance required",
+  "mileage": 10000,
+  "id": "10"
+ },
+ {
+  "year": 2022,
+  "make": "Ford",
+  "model": "Mustang",
+  "type": "Sports Car",
+  "img": "img_url_11",
+  "description": "The Ford Mustang is an iconic American sports car with a powerful V8 engine and classic styling.",
+  "fuelConsumption": "15 mpg (city), 24 mpg (highway)",
+  "engineSize": "5.0L V8",
+  "accessories": [
+   "Brembo Brakes",
+   "Performance Package",
+   "Leather Seats"
+  ],
+  "functionalities": [
+   "Launch Control",
+   "Track Apps",
+   "Line Lock"
+  ],
+  "rentalPrice": "$65 per day",
+  "rentalCompany": "Muscle Car Rentals",
+  "address": "123 Muscle Lane, Muscle City, USA",
+  "rentalConditions": "Minimum age: 25, Experience with high-performance cars required",
+  "mileage": 6000,
+  "id": "11"
+ },
+ {
+  "year": 2023,
+  "make": "Mercedes-Benz",
+  "model": "C-Class",
+  "type": "Sedan",
+  "img": "img_url_12",
+  "description": "The Mercedes-Benz C-Class is a luxury sedan with a sophisticated interior and advanced technology.",
+  "fuelConsumption": "24 mpg (city), 35 mpg (highway)",
+  "engineSize": "2.0L Inline-4",
+  "accessories": [
+   "MBUX Infotainment",
+   "Panoramic Sunroof",
+   "Heated and Ventilated Seats"
+  ],
+  "functionalities": [
+   "Adaptive Cruise Control",
+   "Active Lane Change Assist"
+  ],
+  "rentalPrice": "$75 per day",
+  "rentalCompany": "Luxury Auto Rentals",
+  "address": "567 Luxury Boulevard, Highend City, USA",
+  "rentalConditions": "Minimum age: 25, Credit card and insurance required",
+  "mileage": 3000,
+  "id": "12"
+ },
+ {
+  "year": 2021,
+  "make": "Volkswagen",
+  "model": "Golf",
+  "type": "Hatchback",
+  "img": "img_url_13",
+  "description": "The Volkswagen Golf is a versatile and practical hatchback with a comfortable ride.",
+  "fuelConsumption": "29 mpg (city), 37 mpg (highway)",
+  "engineSize": "1.4L 4-cylinder",
+  "accessories": [
+   "Apple CarPlay",
+   "Android Auto",
+   "Keyless Entry"
+  ],
+  "functionalities": [
+   "Forward Collision Warning",
+   "Blind Spot Monitor"
+  ],
+  "rentalPrice": "$32 per day",
+  "rentalCompany": "Budget Car Rentals",
+  "address": "101 Economy Street, Budgetville, USA",
+  "rentalConditions": "Minimum age: 21, Valid driver's license required",
+  "mileage": 12000,
+  "id": "13"
+ },
+ {
+  "year": 2022,
+  "make": "Jeep",
+  "model": "Cherokee",
+  "type": "SUV",
+  "img": "img_url_14",
+  "description": "The Jeep Cherokee is a compact SUV that's equally at home on and off the road.",
+  "fuelConsumption": "21 mpg (city), 29 mpg (highway)",
+  "engineSize": "2.4L 4-cylinder",
+  "accessories": [
+   "4WD",
+   "Infotainment System",
+   "Roof Rails"
+  ],
+  "functionalities": [
+   "Hill Start Assist",
+   "Selec-Terrain Traction Control"
+  ],
+  "rentalPrice": "$40 per day",
+  "rentalCompany": "Adventure Rentals",
+  "address": "789 Trailside Road, Outdoorsville, USA",
+  "rentalConditions": "Minimum age: 25, Off-road experience preferred",
+  "mileage": 8000,
+  "id": "14"
+ },
+ {
+  "year": 2020,
+  "make": "Chevrolet",
+  "model": "Camaro",
+  "type": "Sports Car",
+  "img": "img_url_15",
+  "description": "The Chevrolet Camaro is a high-performance sports car with a bold design and impressive speed.",
+  "fuelConsumption": "16 mpg (city), 27 mpg (highway)",
+  "engineSize": "6.2L V8",
+  "accessories": [
+   "Performance Exhaust",
+   "Racing Stripes",
+   "Recaro Seats"
+  ],
+  "functionalities": [
+   "Magnetic Ride Control",
+   "Launch Control"
+  ],
+  "rentalPrice": "$70 per day",
+  "rentalCompany": "Speedy Rentals",
+  "address": "456 Speedster Avenue, Fasttown, USA",
+  "rentalConditions": "Minimum age: 25, Experience with high-performance cars required",
+  "mileage": 5000,
+  "id": "15"
+ },
+ {
+  "year": 2023,
+  "make": "Hyundai",
+  "model": "Tucson",
+  "type": "SUV",
+  "img": "img_url_16",
+  "description": "The Hyundai Tucson is a compact SUV with a modern design and a comfortable interior.",
+  "fuelConsumption": "26 mpg (city), 33 mpg (highway)",
+  "engineSize": "2.5L 4-cylinder",
+  "accessories": [
+   "Wireless Charging",
+   "Surround-View Monitor",
+   "Panoramic Sunroof"
+  ],
+  "functionalities": [
+   "Blind-Spot Collision-Avoidance Assist",
+   "Smart Cruise Control"
+  ],
+  "rentalPrice": "$35 per day",
+  "rentalCompany": "City Auto Rentals",
+  "address": "123 City Street, Anytown, USA",
+  "rentalConditions": "Minimum age: 21, Proof of insurance required",
+  "mileage": 10000,
+  "id": "16"
+ },
+ {
+  "year": 2022,
+  "make": "Subaru",
+  "model": "Impreza",
+  "type": "Sedan",
+  "img": "img_url_17",
+  "description": "The Subaru Impreza is a compact sedan with standard all-wheel drive and great safety features.",
+  "fuelConsumption": "24 mpg (city), 31 mpg (highway)",
+  "engineSize": "2.0L 4-cylinder",
+  "accessories": [
+   "EyeSight Driver Assist",
+   "Apple CarPlay",
+   "Android Auto"
+  ],
+  "functionalities": [
+   "Adaptive Cruise Control",
+   "Lane Keeping Assist"
+  ],
+  "rentalPrice": "$30 per day",
+  "rentalCompany": "Easy Rent Cars",
+  "address": "456 Easy Street, Somewhere, USA",
+  "rentalConditions": "Minimum age: 21, Credit card required",
+  "mileage": 9000,
+  "id": "17"
+ },
+ {
+  "year": 2022,
+  "make": "Audi",
+  "model": "Q7",
+  "type": "SUV",
+  "img": "img_url_18",
+  "description": "The Audi Q7 is a luxury SUV with a spacious and upscale interior, perfect for family trips.",
+  "fuelConsumption": "19 mpg (city), 23 mpg (highway)",
+  "engineSize": "3.0L V6",
+  "accessories": [
+   "Virtual Cockpit",
+   "Panoramic Sunroof",
+   "Heated Leather Seats"
+  ],
+  "functionalities": [
+   "Adaptive Cruise Control",
+   "Traffic Jam Pilot"
+  ],
+  "rentalPrice": "$65 per day",
+  "rentalCompany": "Audi Excellence Rentals",
+  "address": "789 Luxury Drive, Upscale Town, USA",
+  "rentalConditions": "Minimum age: 25, Credit card and insurance required",
+  "mileage": 6000,
+  "id": "18"
+ },
+ {
+  "year": 2021,
+  "make": "Kia",
+  "model": "Sportage",
+  "type": "SUV",
+  "img": "img_url_19",
+  "description": "The Kia Sportage is a compact SUV with a comfortable ride and an intuitive infotainment system.",
+  "fuelConsumption": "23 mpg (city), 30 mpg (highway)",
+  "engineSize": "2.4L 4-cylinder",
+  "accessories": [
+   "Apple CarPlay",
+   "Android Auto",
+   "Heated Front Seats"
+  ],
+  "functionalities": [
+   "Blind Spot Detection",
+   "Lane Keeping Assist"
+  ],
+  "rentalPrice": "$33 per day",
+  "rentalCompany": "City Auto Rentals",
+  "address": "101 Economy Road, Budgetville, USA",
+  "rentalConditions": "Minimum age: 21, Proof of insurance required",
+  "mileage": 12000,
+  "id": "19"
+ },
+ {
+  "year": 2023,
+  "make": "Porsche",
+  "model": "911",
+  "type": "Sports Car",
+  "img": "img_url_20",
+  "description": "The Porsche 911 is an iconic sports car known for its high performance and timeless design.",
+  "fuelConsumption": "15 mpg (city), 23 mpg (highway)",
+  "engineSize": "3.0L Flat-6",
+  "accessories": [
+   "Porsche Communication Management",
+   "Sport Chrono Package",
+   "Sport Exhaust"
+  ],
+  "functionalities": [
+   "Porsche Dynamic Chassis Control",
+   "Porsche Ceramic Composite Brakes"
+  ],
+  "rentalPrice": "$90 per day",
+  "rentalCompany": "Sports Car Rentals",
+  "address": "456 Speedster Road, Fasttown, USA",
+  "rentalConditions": "Minimum age: 25, Experience with high-performance cars required",
+  "mileage": 4000,
+  "id": "20"
+ },
+ {
+  "year": 2022,
+  "make": "Mazda",
+  "model": "CX-5",
+  "type": "SUV",
+  "img": "img_url_21",
+  "description": "The Mazda CX-5 is a compact SUV with a stylish design and an engaging driving experience.",
+  "fuelConsumption": "25 mpg (city), 31 mpg (highway)",
+  "engineSize": "2.5L 4-cylinder",
+  "accessories": [
+   "Apple CarPlay",
+   "Android Auto",
+   "Heated Leather Seats"
+  ],
+  "functionalities": [
+   "Lane Departure Warning",
+   "Adaptive Headlights"
+  ],
+  "rentalPrice": "$35 per day",
+  "rentalCompany": "City Auto Rentals",
+  "address": "123 City Drive, Anytown, USA",
+  "rentalConditions": "Minimum age: 21, Proof of insurance required",
+  "mileage": 8000,
+  "id": "21"
+ },
+ {
+  "year": 2021,
+  "make": "Lexus",
+  "model": "RX",
+  "type": "SUV",
+  "img": "img_url_22",
+  "description": "The Lexus RX is a luxury SUV with a comfortable and quiet interior, perfect for long trips.",
+  "fuelConsumption": "20 mpg (city), 27 mpg (highway)",
+  "engineSize": "3.5L V6",
+  "accessories": [
+   "Lexus Enform",
+   "Panoramic Sunroof",
+   "Heated and Ventilated Seats"
+  ],
+  "functionalities": [
+   "Adaptive Cruise Control",
+   "Lane Keep Assist"
+  ],
+  "rentalPrice": "$70 per day",
+  "rentalCompany": "Luxury Auto Rentals",
+  "address": "567 Luxury Avenue, Highend City, USA",
+  "rentalConditions": "Minimum age: 25, Credit card and insurance required",
+  "mileage": 10000,
+  "id": "22"
+ },
+ {
+  "year": 2023,
+  "make": "Volvo",
+  "model": "XC90",
+  "type": "SUV",
+  "img": "img_url_23",
+  "description": "The Volvo XC90 is a luxury SUV with a spacious and safety-oriented design.",
+  "fuelConsumption": "21 mpg (city), 29 mpg (highway)",
+  "engineSize": "2.0L 4-cylinder",
+  "accessories": [
+   "Sensus Infotainment",
+   "Panoramic Sunroof",
+   "Leather Seats"
+  ],
+  "functionalities": [
+   "Pilot Assist",
+   "Blind Spot Information System"
+  ],
+  "rentalPrice": "$65 per day",
+  "rentalCompany": "Luxury Rentals",
+  "address": "789 Premium Road, Upscale Town, USA",
+  "rentalConditions": "Minimum age: 25, Credit card and insurance required",
+  "mileage": 6000,
+  "id": "23"
+ },
+ {
+  "year": 2022,
+  "make": "Acura",
+  "model": "MDX",
+  "type": "SUV",
+  "img": "img_url_24",
+  "description": "The Acura MDX is a premium SUV with a spacious interior and advanced technology features.",
+  "fuelConsumption": "19 mpg (city), 26 mpg (highway)",
+  "engineSize": "3.5L V6",
+  "accessories": [
+   "AcuraLink",
+   "Panoramic Sunroof",
+   "Heated Leather Seats"
+  ],
+  "functionalities": [
+   "Adaptive Cruise Control",
+   "Lane Keeping Assist"
+  ],
+  "rentalPrice": "$55 per day",
+  "rentalCompany": "Acura Excellence Rentals",
+  "address": "123 Luxury Drive, Highend City, USA",
+  "rentalConditions": "Minimum age: 25, Credit card and insurance required",
+  "mileage": 5000,
+  "id": "24"
+ },
+ {
+  "year": 2021,
+  "make": "Nissan",
+  "model": "Rogue",
+  "type": "SUV",
+  "img": "img_url_25",
+  "description": "The Nissan Rogue is a compact SUV with a comfortable interior and great safety technology.",
+  "fuelConsumption": "26 mpg (city), 33 mpg (highway)",
+  "engineSize": "2.5L 4-cylinder",
+  "accessories": [
+   "Apple CarPlay",
+   "Android Auto",
+   "ProPILOT Assist"
+  ],
+  "functionalities": [
+   "Blind Spot Warning",
+   "Rear Cross Traffic Alert"
+  ],
+  "rentalPrice": "$40 per day",
+  "rentalCompany": "City Auto Rentals",
+  "address": "456 Economy Avenue, Budgetville, USA",
+  "rentalConditions": "Minimum age: 21, Proof of insurance required",
+  "mileage": 9000,
+  "id": "25"
+ },
+ {
+  "year": 2022,
+  "make": "Kia",
+  "model": "Telluride",
+  "type": "SUV",
+  "img": "img_url_26",
+  "description": "The Kia Telluride is a midsize SUV with a spacious interior and a comfortable ride.",
+  "fuelConsumption": "20 mpg (city), 26 mpg (highway)",
+  "engineSize": "3.8L V6",
+  "accessories": [
+   "Apple CarPlay",
+   "Android Auto",
+   "Heated Leather Seats"
+  ],
+  "functionalities": [
+   "Blind-Spot Collision-Avoidance Assist",
+   "Smart Cruise Control"
+  ],
+  "rentalPrice": "$45 per day",
+  "rentalCompany": "City Auto Rentals",
+  "address": "101 Premium Road, Upscale City, USA",
+  "rentalConditions": "Minimum age: 21, Proof of insurance required",
+  "mileage": 7000,
+  "id": "26"
+ },
+ {
+  "year": 2022,
+  "make": "Toyota",
+  "model": "Camry",
+  "type": "Sedan",
+  "img": "img_url_27",
+  "description": "The Toyota Camry is a reliable and efficient sedan with a spacious interior.",
+  "fuelConsumption": "28 mpg (city), 39 mpg (highway)",
+  "engineSize": "2.5L 4-cylinder",
+  "accessories": [
+   "Apple CarPlay",
+   "Android Auto",
+   "Adaptive Cruise Control"
+  ],
+  "functionalities": [
+   "Lane Departure Alert",
+   "Pre-Collision System"
+  ],
+  "rentalPrice": "$30 per day",
+  "rentalCompany": "Budget Car Rentals",
+  "address": "123 Economy Drive, Budgetville, USA",
+  "rentalConditions": "Minimum age: 21, Valid driver's license required",
+  "mileage": 10000,
+  "id": "27"
+ },
+ {
+  "year": 2022,
+  "make": "Honda",
+  "model": "CR-V",
+  "type": "SUV",
+  "img": "img_url_28",
+  "description": "The Honda CR-V is a popular compact SUV with a spacious interior and great fuel efficiency.",
+  "fuelConsumption": "28 mpg (city), 34 mpg (highway)",
+  "engineSize": "1.5L 4-cylinder",
+  "accessories": [
+   "Apple CarPlay",
+   "Android Auto",
+   "Honda Sensing Suite"
+  ],
+  "functionalities": [
+   "Collision Mitigation Braking System",
+   "Lane Keeping Assist"
+  ],
+  "rentalPrice": "$35 per day",
+  "rentalCompany": "City Auto Rentals",
+  "address": "456 City Avenue, Anytown, USA",
+  "rentalConditions": "Minimum age: 21, Proof of insurance required",
+  "mileage": 8000,
+  "id": "28"
+ },
+ {
+  "year": 2022,
+  "make": "Ford",
+  "model": "Escape",
+  "type": "SUV",
+  "img": "img_url_29",
+  "description": "The Ford Escape is a compact SUV with a comfortable interior and a smooth ride.",
+  "fuelConsumption": "28 mpg (city), 34 mpg (highway)",
+  "engineSize": "1.5L 3-cylinder",
+  "accessories": [
+   "Sync 3 Infotainment",
+   "Panoramic Sunroof",
+   "Heated Front Seats"
+  ],
+  "functionalities": [
+   "Adaptive Cruise Control",
+   "Blind Spot Monitor"
+  ],
+  "rentalPrice": "$35 per day",
+  "rentalCompany": "Budget Car Rentals",
+  "address": "101 Economy Drive, Budgetville, USA",
+  "rentalConditions": "Minimum age: 21, Proof of insurance required",
+  "mileage": 9000,
+  "id": "29"
+ },
+ {
+  "year": 2021,
+  "make": "Nissan",
+  "model": "Altima",
+  "type": "Sedan",
+  "img": "img_url_30",
+  "description": "The Nissan Altima is a reliable and comfortable sedan with a spacious interior and good fuel efficiency.",
+  "fuelConsumption": "28 mpg (city), 39 mpg (highway)",
+  "engineSize": "2.5L 4-cylinder",
+  "accessories": [
+   "Apple CarPlay",
+   "Android Auto",
+   "ProPILOT Assist"
+  ],
+  "functionalities": [
+   "Blind Spot Warning",
+   "Rear Cross Traffic Alert"
+  ],
+  "rentalPrice": "$30 per day",
+  "rentalCompany": "City Auto Rentals",
+  "address": "456 Economy Avenue, Budgetville, USA",
+  "rentalConditions": "Minimum age: 21, Valid driver's license required",
+  "mileage": 10000,
+  "id": "30"
+ },
+ {
+  "year": 2021,
+  "make": "Hyundai",
+  "model": "Elantra",
+  "type": "Sedan",
+  "img": "img_url_31",
+  "description": "The Hyundai Elantra is a compact sedan with a stylish design and a comfortable interior.",
+  "fuelConsumption": "31 mpg (city), 41 mpg (highway)",
+  "engineSize": "2.0L 4-cylinder",
+  "accessories": [
+   "Wireless Charging",
+   "8-inch Touchscreen",
+   "Heated Front Seats"
+  ],
+  "functionalities": [
+   "Lane Keeping Assist",
+   "Smart Cruise Control"
+  ],
+  "rentalPrice": "$25 per day",
+  "rentalCompany": "Budget Car Rentals",
+  "address": "123 Economy Drive, Budgetville, USA",
+  "rentalConditions": "Minimum age: 21, Valid driver's license required",
+  "mileage": 12000,
+  "id": "31"
+ },
+ {
+  "year": 2021,
+  "make": "Volkswagen",
+  "model": "Passat",
+  "type": "Sedan",
+  "img": "img_url_32",
+  "description": "The Volkswagen Passat is a midsize sedan with a spacious and comfortable interior.",
+  "fuelConsumption": "24 mpg (city), 36 mpg (highway)",
+  "engineSize": "2.0L 4-cylinder",
+  "accessories": [
+   "Apple CarPlay",
+   "Android Auto",
+   "Dual-Zone Climate Control"
+  ],
+  "functionalities": [
+   "Forward Collision Warning",
+   "Blind Spot Monitor"
+  ],
+  "rentalPrice": "$28 per day",
+  "rentalCompany": "Budget Car Rentals",
+  "address": "456 Economy Avenue, Budgetville, USA",
+  "rentalConditions": "Minimum age: 21, Valid driver's license required",
+  "mileage": 10000,
+  "id": "32"
+ },
+ {
+  "year": 2021,
+  "make": "Mazda",
+  "model": "Mazda3",
+  "type": "Sedan",
+  "img": "img_url_33",
+  "description": "The Mazda3 is a compact sedan with a sporty design and an engaging driving experience.",
+  "fuelConsumption": "28 mpg (city), 36 mpg (highway)",
+  "engineSize": "2.5L 4-cylinder",
+  "accessories": [
+   "Apple CarPlay",
+   "Android Auto",
+   "Heated Front Seats"
+  ],
+  "functionalities": [
+   "Adaptive Cruise Control",
+   "Lane Departure Warning"
+  ],
+  "rentalPrice": "$30 per day",
+  "rentalCompany": "Budget Car Rentals",
+  "address": "123 Economy Drive, Budgetville, USA",
+  "rentalConditions": "Minimum age: 21, Valid driver's license required",
+  "mileage": 9000,
+  "id": "33"
+ },
+ {
+  "year": 2021,
+  "make": "Honda",
+  "model": "Accord",
+  "type": "Sedan",
+  "img": "img_url_34",
+  "description": "The Honda Accord is a midsize sedan with a comfortable interior and a reputation for reliability.",
+  "fuelConsumption": "30 mpg (city), 38 mpg (highway)",
+  "engineSize": "1.5L 4-cylinder",
+  "accessories": [
+   "Apple CarPlay",
+   "Android Auto",
+   "Honda Sensing Suite"
+  ],
+  "functionalities": [
+   "Collision Mitigation Braking System",
+   "Lane Keeping Assist"
+  ],
+  "rentalPrice": "$32 per day",
+  "rentalCompany": "Budget Car Rentals",
+  "address": "456 Economy Drive, Budgetville, USA",
+  "rentalConditions": "Minimum age: 21, Valid driver's license required",
+  "mileage": 9000,
+  "id": "34"
+ },
+ {
+  "year": 2021,
+  "make": "Toyota",
+  "model": "Corolla",
+  "type": "Sedan",
+  "img": "img_url_35",
+  "description": "The Toyota Corolla is a compact sedan known for its reliability and fuel efficiency.",
+  "fuelConsumption": "31 mpg (city), 38 mpg (highway)",
+  "engineSize": "1.8L 4-cylinder",
+  "accessories": [
+   "Apple CarPlay",
+   "Android Auto",
+   "Toyota Safety Sense"
+  ],
+  "functionalities": [
+   "Pre-Collision System",
+   "Lane Departure Alert"
+  ],
+  "rentalPrice": "$28 per day",
+  "rentalCompany": "Budget Car Rentals",
+  "address": "123 Economy Drive, Budgetville, USA",
+  "rentalConditions": "Minimum age: 21, Valid driver's license required",
+  "mileage": 9000,
+  "id": "35"
+ },
+ {
+  "year": 2021,
+  "make": "Kia",
+  "model": "Forte",
+  "type": "Sedan",
+  "img": "img_url_36",
+  "description": "The Kia Forte is a compact sedan with a comfortable interior and a user-friendly infotainment system.",
+  "fuelConsumption": "27 mpg (city), 37 mpg (highway)",
+  "engineSize": "2.0L 4-cylinder",
+  "accessories": [
+   "Apple CarPlay",
+   "Android Auto",
+   "8-inch Touchscreen"
+  ],
+  "functionalities": [
+   "Lane Keeping Assist",
+   "Forward Collision Warning"
+  ],
+  "rentalPrice": "$28 per day",
+  "rentalCompany": "Budget Car Rentals",
+  "address": "456 Economy Drive, Budgetville, USA",
+  "rentalConditions": "Minimum age: 21, Valid driver's license required",
+  "mileage": 9000,
+  "id": "36"
+ },
+ {
+  "year": 2021,
+  "make": "Hyundai",
+  "model": "Sonata",
+  "type": "Sedan",
+  "img": "img_url_37",
+  "description": "The Hyundai Sonata is a midsize sedan with a comfortable ride and a spacious interior.",
+  "fuelConsumption": "27 mpg (city), 37 mpg (highway)",
+  "engineSize": "2.5L 4-cylinder",
+  "accessories": [
+   "Apple CarPlay",
+   "Android Auto",
+   "Heated Front Seats"
+  ],
+  "functionalities": [
+   "Lane Keeping Assist",
+   "Blind-Spot Collision-Avoidance Assist"
+  ],
+  "rentalPrice": "$30 per day",
+  "rentalCompany": "Budget Car Rentals",
+  "address": "123 Economy Drive, Budgetville, USA",
+  "rentalConditions": "Minimum age: 21, Valid driver's license required",
+  "mileage": 9000,
+  "id": "37"
+ },
+ {
+  "year": 2021,
+  "make": "Volkswagen",
+  "model": "Jetta",
+  "type": "Sedan",
+  "img": "img_url_38",
+  "description": "The Volkswagen Jetta is a compact sedan with a comfortable interior and a smooth ride.",
+  "fuelConsumption": "29 mpg (city), 39 mpg (highway)",
+  "engineSize": "1.4L 4-cylinder",
+  "accessories": [
+   "Apple CarPlay",
+   "Android Auto",
+   "8-inch Touchscreen"
+  ],
+  "functionalities": [
+   "Forward Collision Warning",
+   "Blind Spot Monitor"
+  ],
+  "rentalPrice": "$28 per day",
+  "rentalCompany": "Budget Car Rentals",
+  "address": "456 Economy Drive, Budgetville, USA",
+  "rentalConditions": "Minimum age: 21, Valid driver's license required",
+  "mileage": 9000,
+  "id": "38"
+ },
+ {
+  "year": 2021,
+  "make": "Ford",
+  "model": "Fusion",
+  "type": "Sedan",
+  "img": "img_url_39",
+  "description": "The Ford Fusion is a midsize sedan with a comfortable interior and a smooth ride.",
+  "fuelConsumption": "23 mpg (city), 34 mpg (highway)",
+  "engineSize": "2.5L 4-cylinder",
+  "accessories": [
+   "Sync 3 Infotainment",
+   "Heated Front Seats",
+   "Lane Keeping System"
+  ],
+  "functionalities": [
+   "Pre-Collision Assist",
+   "Blind Spot Information System"
+  ],
+  "rentalPrice": "$30 per day",
+  "rentalCompany": "Budget Car Rentals",
+  "address": "123 Economy Drive, Budgetville, USA",
+  "rentalConditions": "Minimum age: 21, Valid driver's license required",
+  "mileage": 9000,
+  "id": "39"
+ },
+ {
+  "year": 2021,
+  "make": "Subaru",
+  "model": "Outback",
+  "type": "SUV",
+  "img": "img_url_40",
+  "description": "The Subaru Outback is a versatile SUV with all-wheel drive and a spacious interior, ideal for outdoor adventures.",
+  "fuelConsumption": "26 mpg (city), 33 mpg (highway)",
+  "engineSize": "2.5L 4-cylinder",
+  "accessories": [
+   "Subaru Starlink",
+   "Panoramic Moonroof",
+   "Heated Front Seats"
+  ],
+  "functionalities": [
+   "EyeSight Driver Assist",
+   "X-Mode Off-Road System"
+  ],
+  "rentalPrice": "$35 per day",
+  "rentalCompany": "Adventure Rentals",
+  "address": "456 Trailhead Lane, Outdoorsville, USA",
+  "rentalConditions": "Minimum age: 21, Proof of insurance required",
+  "mileage": 8000,
+  "id": "40"
+ }
+]
