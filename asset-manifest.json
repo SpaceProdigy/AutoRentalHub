@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Car_Rental/static/css/main.7acaea2f.css",
+    "main.js": "/Car_Rental/static/js/main.0a17b568.js",
+    "static/js/544.20f700eb.chunk.js": "/Car_Rental/static/js/544.20f700eb.chunk.js",
+    "index.html": "/Car_Rental/index.html",
+    "main.7acaea2f.css.map": "/Car_Rental/static/css/main.7acaea2f.css.map",
+    "main.0a17b568.js.map": "/Car_Rental/static/js/main.0a17b568.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.0a17b568.js"
+  ]
+}
