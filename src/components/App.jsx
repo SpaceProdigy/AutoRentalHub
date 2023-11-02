@@ -55,10 +55,10 @@ export const App = () => {
       <main>
         <Suspense fallback={<Spiner />}>
           <Routes>
-            {/* <Route path="/" element={<Home />}> */}
-            {/* <Route path="/catalog" element={<Register />} />
+            <Route path="/" element={<Home />}>
+              {/* <Route path="/catalog" element={<Register />} />
               <Route path="/favorites" element={<Login />} /> */}
-            {/* </Route> */}
+            </Route>
             <Route path="*" element={<Navigate to="/" />} />
           </Routes>
         </Suspense>
