@@ -108,7 +108,9 @@ export default function LearnMore({ cars, handleClose }) {
             </RentalDescription>
           </RentalWrapeer>
 
-          <Button>Rental car</Button>
+          <a href="tel:+380730000000">
+            <Button>Rental car</Button>
+          </a>
         </Item>
       ) : (
         <CircularLoader />
