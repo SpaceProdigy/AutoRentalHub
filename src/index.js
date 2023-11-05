@@ -6,13 +6,13 @@ import { App } from 'components/App';
 import './index.css';
 import { PersistGate } from 'redux-persist/integration/react';
 import { BrowserRouter } from 'react-router-dom';
-import Spiner from './utility/Spiner/Spiner';
+import LinearLoader from './utility/LinearLoader/LinearLoader';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
-      <PersistGate loading={<Spiner />} persistor={persistor}>
-        <BrowserRouter basename="/Car_Rental">
+      <PersistGate loading={<LinearLoader />} persistor={persistor}>
+        <BrowserRouter basename="/AutoRentalHub">
           <App />
         </BrowserRouter>
       </PersistGate>

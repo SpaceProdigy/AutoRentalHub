@@ -11,6 +11,14 @@ export const Link = styled(NavLink)`
   color: black;
   font-weight: 500;
   box-shadow: 0px 0px 1.5px 0px rgba(0, 0, 0, 0.5);
+
+  > p {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: calc(24 / 16);
+    color: var(--secondary-text-color);
+  }
+
   &.active {
     color: white;
     background-color: rgba(250, 217, 69, 0.7);
@@ -35,8 +43,8 @@ export const Header = styled.header`
   align-items: center;
   justify-content: space-between;
   gap: 12px;
-  padding: 10px 0;
-  width: 100%;
+  padding: 10px 16px;
+  width: 100wv;
   box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.5);
   z-index: 100;
 
@@ -44,14 +52,14 @@ export const Header = styled.header`
     display: flex;
     align-items: center;
     gap: 8px;
-    @media screen and (max-width: 768px) {
+    /* @media screen and (max-width: 768px) {
       display: none;
-    }
+    } */
   }
 
-  @media (min-width: 1200px) {
+  /* @media (min-width: 1200px) {
     max-width: 1280px;
-  }
+  } */
 `;
 
 export const Nav = styled.nav`

@@ -1,0 +1,24 @@
+:root {
+
+    /* text */
+    --main-text-color: #12141780;
+    --secondary-text-color: #121417;
+    --accent-text-color: #3470FF;
+    --search-text-color: #121417;
+    --info-search-text-color: #8A8A89;
+    --button-text-color-LearnMore: #ffffff;
+    --button-text-color-LoadMore: #ffffff;
+    --rental-text-color: #363535;
+
+
+    /* backgroung */
+    --main-background-color: #ffffff;
+    --background-button-LearnMore: #3470FF;
+    --background-favorite-icon: #3470FF;
+
+    /* animation */
+    --animation: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
+    /* hover effect */
+    --hover-effect-button: #0B44CD
+}
