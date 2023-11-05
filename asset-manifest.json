@@ -1,14 +1,24 @@
 {
   "files": {
-    "main.css": "/Car_Rental/static/css/main.7acaea2f.css",
-    "main.js": "/Car_Rental/static/js/main.0a17b568.js",
-    "static/js/544.20f700eb.chunk.js": "/Car_Rental/static/js/544.20f700eb.chunk.js",
-    "index.html": "/Car_Rental/index.html",
-    "main.7acaea2f.css.map": "/Car_Rental/static/css/main.7acaea2f.css.map",
-    "main.0a17b568.js.map": "/Car_Rental/static/js/main.0a17b568.js.map"
+    "main.css": "/AutoRentalHub/static/css/main.37d1c26b.css",
+    "main.js": "/AutoRentalHub/static/js/main.d3f775f0.js",
+    "static/js/374.1ab1ff31.chunk.js": "/AutoRentalHub/static/js/374.1ab1ff31.chunk.js",
+    "static/js/127.e76a05cd.chunk.js": "/AutoRentalHub/static/js/127.e76a05cd.chunk.js",
+    "static/js/634.19828f93.chunk.js": "/AutoRentalHub/static/js/634.19828f93.chunk.js",
+    "static/js/174.b8d8501a.chunk.js": "/AutoRentalHub/static/js/174.b8d8501a.chunk.js",
+    "static/media/hero.jpg": "/AutoRentalHub/static/media/hero.50b86d0e8f16c3462a24.jpg",
+    "static/media/Manrope-VariableFont_wght.ttf": "/AutoRentalHub/static/media/Manrope-VariableFont_wght.4afb283bba326df875f6.ttf",
+    "static/media/foto_not_found.png": "/AutoRentalHub/static/media/foto_not_found.40fa56f524f6cd85da8b.png",
+    "index.html": "/AutoRentalHub/index.html",
+    "main.37d1c26b.css.map": "/AutoRentalHub/static/css/main.37d1c26b.css.map",
+    "main.d3f775f0.js.map": "/AutoRentalHub/static/js/main.d3f775f0.js.map",
+    "374.1ab1ff31.chunk.js.map": "/AutoRentalHub/static/js/374.1ab1ff31.chunk.js.map",
+    "127.e76a05cd.chunk.js.map": "/AutoRentalHub/static/js/127.e76a05cd.chunk.js.map",
+    "634.19828f93.chunk.js.map": "/AutoRentalHub/static/js/634.19828f93.chunk.js.map",
+    "174.b8d8501a.chunk.js.map": "/AutoRentalHub/static/js/174.b8d8501a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.0a17b568.js"
+    "static/css/main.37d1c26b.css",
+    "static/js/main.d3f775f0.js"
   ]
 }
