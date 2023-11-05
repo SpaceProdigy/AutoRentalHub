@@ -34,7 +34,7 @@ export const IconBattonFaivorit = styled.button`
 `;
 
 export const List = styled.ul`
-  margin-top: 50px;
+  margin-top: 100px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;

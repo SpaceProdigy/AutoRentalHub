@@ -12,7 +12,6 @@ const Favorites = () => {
   const handleClose = () => setOpen(false);
   const favorite = useSelector(getFavorite);
   const [moreInfo, setMoreInfo] = useState(null);
-  console.log(moreInfo);
   const dispatch = useDispatch();
 
   return (

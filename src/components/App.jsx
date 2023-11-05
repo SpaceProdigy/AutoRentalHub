@@ -5,7 +5,7 @@ import HomeIcon from '@mui/icons-material/Home';
 import TimeToLeaveIcon from '@mui/icons-material/TimeToLeave';
 import BookmarksIcon from '@mui/icons-material/Bookmarks';
 
-import { Header, Link } from './Header.styled';
+import { Header, Link, WrapperHeader } from './Header.styled';
 
 import Spiner from '../utility/LinearLoader/LinearLoader';
 import ScrollToTop from 'utility/ScrollToTop/ScrollToTop';
@@ -17,23 +17,25 @@ const Favorites = lazy(() => import('../pages/Favorites/Favorites'));
 export const App = () => {
   return (
     <div>
-      <Header>
-        <Link to="/">
-          <HomeIcon />
-          <p>Home</p>
-        </Link>
+      <WrapperHeader>
+        <Header>
+          <Link to="/">
+            <HomeIcon />
+            <p>Home</p>
+          </Link>
 
-        <nav>
-          <Link to="/catalog">
-            <TimeToLeaveIcon />
-            <p> Catalog</p>
-          </Link>
-          <Link to="/favorites">
-            <BookmarksIcon />
-            <p> Favorites</p>
-          </Link>
-        </nav>
-      </Header>
+          <nav>
+            <Link to="/catalog">
+              <TimeToLeaveIcon />
+              <p> Catalog</p>
+            </Link>
+            <Link to="/favorites">
+              <BookmarksIcon />
+              <p> Favorites</p>
+            </Link>
+          </nav>
+        </Header>
+      </WrapperHeader>
 
       <main>
         <Suspense fallback={<Spiner />}>

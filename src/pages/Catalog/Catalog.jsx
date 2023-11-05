@@ -8,8 +8,15 @@ import ListCars from 'components/ListCars/ListCars';
 import ButtonLoadMore from 'components/ButtonLoadMore/ButtonLoadMore';
 import { ButtonWrapper } from './Catalog.styled';
 import CircularLoader from 'utility/CircularLoader/CircularLoader';
+import BasicModal from 'components/Modal/Modal';
 
 const Catalog = () => {
+  const [open, setOpen] = useState(false);
+  const handleOpen = () => setOpen(true);
+  const handleClose = () => setOpen(false);
+
+  const [moreInfo, setMoreInfo] = useState(null);
+
   const [page, setPage] = useState(1);
   const [visibleLoadMore, setVisibleLoadMore] = useState(false);
   const cars = useSelector(getCars);
@@ -30,7 +37,13 @@ const Catalog = () => {
 
   return (
     <>
-      <ListCars cars={cars} favorite={favorite} dispatch={dispatch} />
+      <ListCars
+        cars={cars}
+        favorite={favorite}
+        dispatch={dispatch}
+        handleOpen={handleOpen}
+        setMoreInfo={setMoreInfo}
+      />
       {isloading ? (
         <ButtonWrapper>
           <CircularLoader />
@@ -43,6 +56,8 @@ const Catalog = () => {
           <ButtonLoadMore />
         </ButtonWrapper>
       )}
+
+      <BasicModal cars={moreInfo} open={open} handleClose={handleClose} />
     </>
   );
 };

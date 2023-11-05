@@ -38,15 +38,20 @@ export const LinkMobil = styled(NavLink)`
   }
 `;
 
+export const WrapperHeader = styled.div`
+  position: absolute;
+  width: 100vw;
+  top: 0;
+  max-width: 1440px;
+  z-index: 100;
+  box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.5);
+`;
+
 export const Header = styled.header`
+  padding: 10px 20px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 12px;
-  padding: 10px 16px;
-  width: 100wv;
-  box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.5);
-  z-index: 100;
 
   > nav {
     display: flex;
